@@ -12,7 +12,7 @@ has_children: false
 | Link |
 | ---- |
 | [Ubuntu Cinnamon](https://ubuntucinnamon.org/) |
-| Ubuntu cdimage / [ubuntu-cinnamon](https://cdimage.ubuntu.com/ubuntu-cinnamon/) |
+| Ubuntu cdimage / [ubuntu-cinnamon](https://cdimage.ubuntu.com/ubuntucinnamon/) |
 | GitHub / [ubuntucinnamon](https://github.com/ubuntucinnamon) |
 | GitHub / [cinnamon](https://github.com/linuxmint/cinnamon) |
 | [Cinnamon Desktop Environment](https://projects.linuxmint.com/cinnamon/) |
