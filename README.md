@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [輸入法](#輸入法)
+* [佈景主題](#佈景主題)
 * [工具](#工具)
 * [相關筆記](#相關筆記)
 
@@ -39,6 +40,15 @@
 
 
 
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-ubuntu-cinnamon/read/subject/grub.html) |
+
+
+
+
 ## 工具
 
 | [工具](https://samwhelp.github.io/note-about-ubuntu-cinnamon/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/prototype/main/tool-config) | 分類 |
@@ -52,5 +62,6 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Cinnamon 探索筆記](https://samwhelp.github.io/note-about-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
