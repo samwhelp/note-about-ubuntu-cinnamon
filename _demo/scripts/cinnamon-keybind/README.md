@@ -25,7 +25,14 @@ bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinn
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-keybind/cinnamon-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-keybind/cinnamon-keybind.sh -O -)"
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-keybind/cinnamon-keybind.sh -O - )
+```
+
+
+> or run
+
+``` sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-keybind/cinnamon-keybind.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-keybind/cinnamon-keybind.sh -O - )"
 ```
 
 

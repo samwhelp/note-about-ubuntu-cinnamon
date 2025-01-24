@@ -25,7 +25,14 @@ bash <(curl -L https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinn
 > or run
 
 ``` sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-adjustment/cinnamon-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-adjustment/cinnamon-adjustment.sh -O -)"
+bash <(wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-adjustment/cinnamon-adjustment.sh -O - )
+```
+
+
+> or run
+
+``` sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-adjustment/cinnamon-adjustment.sh || wget -q https://raw.githubusercontent.com/samwhelp/note-about-ubuntu-cinnamon/refs/heads/gh-pages/_demo/scripts/cinnamon-adjustment/cinnamon-adjustment.sh -O - )"
 ```
 
 
