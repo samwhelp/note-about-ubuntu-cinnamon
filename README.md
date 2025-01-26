@@ -24,7 +24,9 @@
 
 | 微調腳本 |
 | -------- |
-| [Ubuntu Cinnamon 24.04](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/prototype/main) |
+| [Ubuntu Cinnamon Config](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
+| [簡易微調](https://github.com/samwhelp/note-about-ubuntu-cinnamon/tree/gh-pages/_demo/scripts/cinnamon-adjustment) |
 
 
 
