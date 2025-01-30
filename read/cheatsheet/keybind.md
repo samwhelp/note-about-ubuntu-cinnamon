@@ -84,7 +84,7 @@ parent: 一覽表
 | ------------------ | --------------- | -------------------------------- |
 | `Alt + Shift + f`  | 開啟檔案管理器  | `nemo`             |
 | `Alt + Shift + g`  | 開啟檔案管理器  | `thunar`                     |
-| `Alt + Shift + e`  | 開啟文字編輯器  | `xed`              |
+| `Alt + Shift + e`  | 開啟文字編輯器  | `gedit`              |
 | `Alt + Shift + b`  | 開啟網頁瀏覽器  | `firefox --new-tab about:blank`  |
 | `Alt + Shift + s`  | 開啟系統設定    | `cinnamon-settings`                |
 
