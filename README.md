@@ -26,7 +26,7 @@
 | -------- |
 | [Ubuntu Cinnamon Config](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
-| [簡易微調](https://github.com/samwhelp/note-about-ubuntu-cinnamon/tree/gh-pages/_demo/scripts/cinnamon-adjustment) |
+| [簡易微調](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/demo/scripts/main/cinnamon-adjustment) |
 
 
 
