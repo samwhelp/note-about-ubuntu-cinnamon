@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Ubuntu Cinnamon Adjustment](https://samwhelp.github.io/ubuntu-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-cinnamon-adjustment) |
 | [Ubuntu Cinnamon 探索筆記](https://samwhelp.github.io/note-about-ubuntu-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-cinnamon) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 
 
 
@@ -27,6 +28,12 @@
 | [Ubuntu Cinnamon Config](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 | [簡易微調](https://github.com/samwhelp/ubuntu-cinnamon-adjustment/tree/main/demo/scripts/main/cinnamon-adjustment) |
+
+
+| Style Management |
+| ---------------- |
+| [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
 
@@ -67,3 +74,10 @@
 | [Cinnamon 探索筆記](https://samwhelp.github.io/note-about-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+
+
+
+
+## Samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
